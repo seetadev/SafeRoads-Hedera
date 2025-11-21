@@ -40,10 +40,10 @@ SafeRoads DAO makes civic participation **rewarding and verifiable**.
 ## Deployment & Demo
 
 - **Deployment link of main dapp:**  
-    [Coming Soon - Hedera Deployment]
+   Please visit https://road-incident-dapp-hedera.vercel.app/
 
 - **Demo screencasts of the dapp:**  
-    [Demo Links Coming Soon]
+    Please visit [Demos and Screencasts](https://drive.google.com/drive/u/3/folders/19C7QHVliJrDj8lOZd7qLU-h9SS9I6Qs1)
 
 ---
 
