@@ -45,6 +45,30 @@ SafeRoads DAO makes civic participation **rewarding and verifiable**.
 - **Demo screencasts of the dapp:**  
     Please visit [Demos and Screencasts](https://drive.google.com/drive/u/3/folders/19C7QHVliJrDj8lOZd7qLU-h9SS9I6Qs1)
 
+---
+
+## Smart Contracts on Hedera Testnet
+
+Transport DAO uses two main smart contracts, both deployed on the Hedera testnet:
+
+### 1. IncidentContract
+
+- **Purpose:** This is a vital contract for the dApp. It manages the full lifecycle of incident reporting: accepting new reports, storing incident data, keeping a record of reporters, and distributing HBAR rewards to verified users. All actions are recorded on-chain for transparency and auditability with Hedera's hashgraph consensus providing fast finality.
+
+Deployment Link: 
+
+Incident Contract on Hedera testnet: https://hashscan.io/testnet/contract/0.0.7135209 
+
+Vercel Deployment: https://road-incident-dapp-hedera.vercel.app/ 
+
+Incident Contract: 0x07Bc74258668113A0116ac51FB3053108a633DaD 
+
+Integration with PPT Token deployed on Hedera testnet: https://hashscan.io/testnet/contract/0.0.7134953/abi 
+
+
+### 2. PPTToken (HTS Compatible)
+
+- **Purpose:** ERC-20 compatible reward token that integrates with Hedera Token Service (HTS). This token incentivizes quality incident reports and community participation. The token can be earned through verified incident reports and used within the SafeRoads ecosystem.
 
 - PPT token deployment on Hedera testnet using Foundry
 
@@ -62,20 +86,6 @@ https://hashscan.io/testnet/contract/0.0.5876854?ps=1&pf=1&pa=1&pr=1
 
 Spare Parts Invoice contract - 0xa9c14d3e8ece4d924a4a4a819088f982b55f6734
 https://hashscan.io/testnet/contract/0.0.5876895?ps=1&pf=1&pa=1&pr=1
-
----
-
-## Smart Contracts on Hedera Testnet
-
-Transport DAO uses two main smart contracts, both deployed on the Hedera testnet:
-
-### 1. IncidentContract
-- **Block Explorer:** [Deployed on Hedera Testnet]
-- **Purpose:** This is the main contract for the dApp. It manages the full lifecycle of incident reporting: accepting new reports, storing incident data, keeping a record of reporters, and distributing HBAR rewards to verified users. All actions are recorded on-chain for transparency and auditability with Hedera's hashgraph consensus providing fast finality.
-
-### 2. PPTToken (HTS Compatible)
-- **Block Explorer:** [Deployed on Hedera Testnet]
-- **Purpose:** ERC-20 compatible reward token that integrates with Hedera Token Service (HTS). This token incentivizes quality incident reports and community participation. The token can be earned through verified incident reports and used within the SafeRoads ecosystem.
 
 ---
 
