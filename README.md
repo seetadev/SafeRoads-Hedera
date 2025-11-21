@@ -15,7 +15,7 @@
 
 > Turning "why should I report?" into "heck yes, I'll report!" — powered by Hedera Hashgraph
 
-SafeRoads Hedera is a decentralized platform built on **Hedera Hashgraph** that rewards citizens for reporting real road incidents — potholes, accidents, or other road hazards — and stores them **on-chain for transparency**.  
+Transport DAO is a decentralized platform built on **Hedera Hashgraph** that rewards citizens for reporting real road incidents — potholes, accidents, or other road hazards — and stores them **on-chain for transparency**.  
 Once verified, reporters earn **HBAR tokens** for their contribution to safer cities.
 
 ## Problem
@@ -28,7 +28,7 @@ As a result, governments don't get reliable data, and citizens stop caring.
 
 ## Solution
 
-SafeRoads Hedera makes civic participation **rewarding and verifiable**.
+Transport DAO makes civic participation **rewarding and verifiable**.
 
 - Citizens report road incidents through a simple **dApp** (location + image + description).  
 - Reports are recorded on the **Hedera blockchain**, ensuring public visibility and immutability.  
@@ -49,7 +49,7 @@ SafeRoads Hedera makes civic participation **rewarding and verifiable**.
 
 ## Smart Contracts on Hedera Testnet
 
-SafeRoads Hedera uses two main smart contracts, both deployed on the Hedera testnet:
+Transport DAO uses two main smart contracts, both deployed on the Hedera testnet:
 
 ### 1. IncidentContract
 - **Block Explorer:** [Deployed on Hedera Testnet]
