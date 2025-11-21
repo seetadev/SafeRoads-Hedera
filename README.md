@@ -78,6 +78,8 @@ https://hashscan.io/testnet/contract/0.0.6880534/abi
 Spare Parts invoice contract - 0x5eb317fFb88031783937C5cc2AF1E69F35D7038B 
 https://hashscan.io/testnet/contract/0.0.6880534/abi
 
+Deployment Instructions: please visit https://github.com/seetadev/foundry-setup-contracts-Storacha?tab=readme-ov-file#deploy-to-hedera-testnet for PPT Token deployment on Hedera testnet using Foundry.
+
 
 - PPT token deployment on Hedera testnet using Harhat
 
@@ -86,6 +88,8 @@ https://hashscan.io/testnet/contract/0.0.5876854?ps=1&pf=1&pa=1&pr=1
 
 Spare Parts Invoice contract - 0xa9c14d3e8ece4d924a4a4a819088f982b55f6734
 https://hashscan.io/testnet/contract/0.0.5876895?ps=1&pf=1&pa=1&pr=1
+
+
 
 ---
 
