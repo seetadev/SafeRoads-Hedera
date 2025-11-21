@@ -2,7 +2,7 @@
     <img src="dapp/public/logo.png" alt="SafeRoads Hedera Logo" width="90" height="90" />
 </p>
 
-# SafeRoads Hedera
+# Transport DAO
 
 ## Table of Contents
 
