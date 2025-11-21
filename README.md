@@ -45,6 +45,20 @@ SafeRoads DAO makes civic participation **rewarding and verifiable**.
 - **Demo screencasts of the dapp:**  
     Please visit [Demos and Screencasts](https://drive.google.com/drive/u/3/folders/19C7QHVliJrDj8lOZd7qLU-h9SS9I6Qs1)
 
+
+- PPT token deployment on Hedera testnet using Foundry
+
+ppt token on hedera testnet - 0xEF3E68FE835BF43c9C915925fB6b433576A8EF1b https://hashscan.io/testnet/contract/0.0.6880534/abi 
+Spare Parts invoice contract - 0x5eb317fFb88031783937C5cc2AF1E69F35D7038B https://hashscan.io/testnet/contract/0.0.6880534/abi
+
+- PPT token deployment on Hedera testnet using Harhat
+
+PPT Token - 0xc00bbc9a2c88712dc1e094866973f036373c7134
+https://hashscan.io/testnet/contract/0.0.5876854?ps=1&pf=1&pa=1&pr=1
+
+Spare Parts Invoice contract - 0xa9c14d3e8ece4d924a4a4a819088f982b55f6734
+https://hashscan.io/testnet/contract/0.0.5876895?ps=1&pf=1&pa=1&pr=1
+
 ---
 
 ## Smart Contracts on Hedera Testnet
