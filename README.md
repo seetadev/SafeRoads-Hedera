@@ -2,7 +2,7 @@
     <img src="dapp/public/logo.png" alt="SafeRoads Hedera Logo" width="90" height="90" />
 </p>
 
-# Transport DAO
+# SafeRoads DAO
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 > Turning "why should I report?" into "heck yes, I'll report!" — powered by Hedera Hashgraph
 
-Transport DAO is a decentralized platform built on **Hedera Hashgraph** that rewards citizens for reporting real road incidents — potholes, accidents, or other road hazards — and stores them **on-chain for transparency**.  
+SafeRoads DAO is a decentralized platform built on **Hedera Hashgraph** that rewards citizens for reporting real road incidents — potholes, accidents, or other road hazards — and stores them **on-chain for transparency**.  
 Once verified, reporters earn **HBAR tokens** for their contribution to safer cities.
 
 ## Problem
@@ -28,7 +28,7 @@ As a result, governments don't get reliable data, and citizens stop caring.
 
 ## Solution
 
-Transport DAO makes civic participation **rewarding and verifiable**.
+SafeRoads DAO makes civic participation **rewarding and verifiable**.
 
 - Citizens report road incidents through a simple **dApp** (location + image + description).  
 - Reports are recorded on the **Hedera blockchain**, ensuring public visibility and immutability.  
