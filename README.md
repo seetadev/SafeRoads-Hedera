@@ -83,7 +83,7 @@ Website: https://park-token-deploy.vercel.app/
 Deployment Instructions: please visit https://github.com/seetadev/foundry-setup-contracts-Storacha?tab=readme-ov-file#deploy-to-hedera-testnet for PPT Token deployment on Hedera testnet using Foundry.
 
 
-- PPT token deployment on Hedera testnet using Harhat
+- PPT token deployment on Hedera testnet using Hardhat
 
 PPT Token - 0xc00bbc9a2c88712dc1e094866973f036373c7134
 https://hashscan.io/testnet/contract/0.0.5876854?ps=1&pf=1&pa=1&pr=1
